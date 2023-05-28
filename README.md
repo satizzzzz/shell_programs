@@ -1,5 +1,7 @@
 Repository for list of shell programs
 
+Ref: https://www.emertxe.com/embedded-systems/linux-systems/ls-assignments/
+
 1.Write a script for printing all file related information in present working directory (e.g.: size, permission & size etc…)
 
 2.Read ‘n’ and generate a pattern given below
