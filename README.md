@@ -25,5 +25,10 @@ Pattern
 
 7.Write a script to compare larger integer values from a ‘n’ number of arguments using command line arguments
 
+8.Write a script to print a given number in reverse order
+
+9.Write a script to delete empty lines from a file
+
+10.String Manipulation
 
 
