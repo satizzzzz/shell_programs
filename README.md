@@ -33,4 +33,10 @@ Pattern
 
 10.String Manipulation
 
+11.Count of String from Arguments
+
+12.Write a script to perform arithmetic operation on digits of a given number depending upon the operator
+
+13.String Reverse
+
 

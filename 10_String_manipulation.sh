@@ -7,4 +7,10 @@ append_str="${str1} ${str2}"
 echo "Appending first and second arg '${append_str}'"
 #str:start:end
 echo "Substring is ${append_str:7:1} "
+#String indexing starts with 0 string:start:end
+echo "Substring is ${append_str:0:1}"
+
+echo "Substring is ${append_str:(-5)}"
+
+
 
